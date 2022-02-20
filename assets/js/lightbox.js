@@ -43,6 +43,9 @@ const lightBoxAnimation = () => {
     let counter = 0;
     let slideWidth = sliderImages[0].clientWidth;
 
+    slidesContainer.style.transition = 'unset';
+    slidesContainer.style.transform = `translateX(-${slideWidth * counter}px)`;
+
     closeLbx.addEventListener('click', () => {
         lightbox.remove();
         slider.remove();
