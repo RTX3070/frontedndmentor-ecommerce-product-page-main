@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/RTX3070/fem-challenges/tree/master/ecommerce-product-page-main](https://github.com/RTX3070/fem-challenges/tree/master/ecommerce-product-page-main)
+- Solution URL: [https://github.com/RTX3070/frontedndmentor-ecommerce-product-page-main](https://github.com/RTX3070/frontedndmentor-ecommerce-product-page-main)
 - Live Site URL: [https://rtx3070.github.io/frontedndmentor-ecommerce-product-page-main/](https://rtx3070.github.io/frontedndmentor-ecommerce-product-page-main/)
 
 ## My process
